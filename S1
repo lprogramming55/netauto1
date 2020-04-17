@@ -1,4 +1,4 @@
-mgmt_p: 10.0.0.2
+mgmt_p: 10.0.10.12
 SDN : 10.10.11.12
 vlans:
 brown
